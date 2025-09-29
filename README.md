@@ -10,7 +10,7 @@
 ### Doctor Dashbord
 ![invoice snap](https://github.com/dipak0304/Hospitalmanagement-system/blob/main/static/screenshots/doctor.png)?raw=true)
 ### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png)?raw=true)
 ---
 ## Functions
 ### Admin
