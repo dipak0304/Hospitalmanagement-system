@@ -7,9 +7,9 @@
 ![homepage snap](https://github.com/dipak0304/Hospitalmanagement-system/blob/main/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/dipak0304/Hospitalmanagement-system/blob/main/static/screenshots/admin.png?raw=true)
-### Doctor Dashbord
+### Doctor Dashboard
 ![invoice snap](https://github.com/dipak0304/Hospitalmanagement-system/blob/main/static/screenshots/doctor.png)?raw=true)
-### Doctor list
+### Patient Dashboard
 ![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png)?raw=true)
 ---
 ## Functions
