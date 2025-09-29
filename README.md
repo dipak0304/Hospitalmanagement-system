@@ -2,6 +2,11 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Dipak%20Bohara-red)
 ---
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipak.bohara03/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipakbohara006)
+
+
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/dipak0304/Hospitalmanagement-system/blob/main/static/screenshots/homepage.png?raw=true)
