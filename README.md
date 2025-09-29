@@ -2,7 +2,8 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Dipak%20Bohara-red)
 ---
-
+## Social Media
+Any suggestion and feedback is welcome. You can message me on facebook
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipak.bohara03/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dipakbohara006)
 
@@ -80,7 +81,4 @@ https://myaccount.google.com/lesssecureapps
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+
