@@ -1,5 +1,7 @@
 
 # Hospital Management
+🚑 Hospital Management System is a smart solution to manage hospitals digitally. It helps keep track of patients, doctors, staff, billing, and reports—all in one place. With easy-to-use features, it reduces paperwork, saves time, and makes hospital operations smoother and more efficient.
+
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Dipak%20Bohara-red)
 ---
 ## Social Media
